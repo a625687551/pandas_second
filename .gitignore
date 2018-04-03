@@ -1,0 +1,10 @@
+.idea
+*.pyc
+*.swp
+*.swo
+*.pyo
+*.log
+*.DS_Store
+*.ipynb_checkpoints
+
+nohup.out
